@@ -64,8 +64,8 @@ END
 
 **Output:**  
 
-<img width="2560" height="1600" alt="Screenshot 2025-09-26 092037" src="https://github.com/user-attachments/assets/a4fe268b-3e43-4c2d-a4b7-b5800a8c4d21" />
 
+![WhatsApp Image 2025-10-27 at 20 57 47_84d0a5f8](https://github.com/user-attachments/assets/a67ccd71-0e15-4ddc-acb1-98467d100393)
 
 
 
