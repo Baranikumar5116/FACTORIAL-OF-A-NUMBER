@@ -64,15 +64,15 @@ END
 
 **Output:**  
 
+<img width="2560" height="1600" alt="Screenshot 2025-09-26 092037" src="https://github.com/user-attachments/assets/128437dd-6ca4-40aa-85f2-8dfe27c223a2" />
 
-![WhatsApp Image 2025-10-27 at 20 57 47_84d0a5f8](https://github.com/user-attachments/assets/a67ccd71-0e15-4ddc-acb1-98467d100393)
 
 
 
 **Manual Calculations:**  
 
 
-![WhatsApp Image 2025-10-27 at 20 57 47_d5b1cd1a](https://github.com/user-attachments/assets/e522b130-9f7d-4c87-8a97-3e527428f4b1)
+![WhatsApp Image 2025-10-27 at 20 57 47_84d0a5f8](https://github.com/user-attachments/assets/a67ccd71-0e15-4ddc-acb1-98467d100393)
 
 
 
