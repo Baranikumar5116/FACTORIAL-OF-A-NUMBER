@@ -64,7 +64,7 @@ END
 
 **Output:**  
 
-<img width="2560" height="1600" alt="Screenshot 2025-09-26 092037" src="https://github.com/user-attachments/assets/128437dd-6ca4-40aa-85f2-8dfe27c223a2" />
+<img width="1729" height="756" alt="image" src="https://github.com/user-attachments/assets/d9fa0186-4b4e-47e0-8d31-ff390651ff57" />
 
 
 
@@ -72,7 +72,7 @@ END
 **Manual Calculations:**  
 
 
-![WhatsApp Image 2025-10-27 at 20 57 47_84d0a5f8](https://github.com/user-attachments/assets/a67ccd71-0e15-4ddc-acb1-98467d100393)
+![WhatsApp Image 2025-11-10 at 08 19 41_658df784](https://github.com/user-attachments/assets/0df7806c-152d-482b-8183-4ed388be201d)
 
 
 
